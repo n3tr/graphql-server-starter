@@ -10,7 +10,9 @@
   "dependencies": {
     "glob": "^7.1.2",
     "graphql-yoga": "^1.8.5",
-    "lodash": "^4.17.5",
+    "lodash": "^4.17.5"
+  },
+  "devDependencies": {
     "nodemon": "^1.17.3"
   }
 }
